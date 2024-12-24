@@ -1,0 +1,210 @@
+{
+  "menu": [
+    {
+      "name": "Learning",
+      "items": [
+        {
+          "title": "Introduction to Cyber Security",
+          "thumb": "https://via.placeholder.com/150/0000FF/808080?text=Intro",
+          "html_url": "https://cybersecurityguide.org/resources/introduction-to-cybersecurity/"
+        },
+        {
+          "title": "Common Cyber Threats",
+          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Threats",
+          "html_url": "https://us-cert.cisa.gov/ncas/tips/ST04-001"
+        },
+        {
+          "title": "How Hackers Operate",
+          "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Hackers",
+          "html_url": "https://www.comparitech.com/blog/information-security/how-hackers-operate/"
+        },
+        {
+          "title": "Top 10 Cybersecurity Tips",
+          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Tips",
+          "html_url": "https://staysafeonline.org/stay-safe-online/securing-key-accounts-devices/"
+        },
+        {
+          "title": "History of Cyber Attacks",
+          "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=History",
+          "html_url": "https://www.pandasecurity.com/en/mediacenter/security/history-of-cyberattacks/"
+        },
+        {
+          "title": "Protecting Your Online Identity",
+          "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Identity",
+          "html_url": "https://www.consumer.ftc.gov/topics/protecting-your-identity"
+        },
+        {
+          "title": "Cybersecurity for Small Businesses",
+          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Businesses",
+          "html_url": "https://www.fcc.gov/cybersecurity-small-business"
+        },
+        {
+          "title": "Understanding Ransomware",
+          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Ransomware",
+          "html_url": "https://us-cert.cisa.gov/Ransomware"
+        },
+        {
+          "title": "Phishing Scams and How to Avoid Them",
+          "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Phishing",
+          "html_url": "https://www.phishing.org/what-is-phishing"
+        },
+        {
+          "title": "The Future of Cybersecurity",
+          "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Future",
+          "html_url": "https://www.cybersecurity-insiders.com/future-of-cybersecurity/"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "items": [
+        {
+          "title": "Cyber Security Basics",
+          "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Basics",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+          "summary": "A beginner-friendly video covering the basics of cyber security."
+        },
+        {
+          "title": "Protecting Your Digital Identity",
+          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Identity",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
+          "summary": "Learn how to safeguard your online identity."
+        },
+        {
+          "title": "How to Spot a Phishing Email",
+          "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Phishing",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4",
+          "summary": "Tips and tricks for identifying phishing emails."
+        },
+        {
+          "title": "The Rise of Ransomware",
+          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4",
+          "summary": "An overview of ransomware and its impact on businesses."
+        },
+        {
+          "title": "Top Cybersecurity Tools",
+          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Tools",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
+          "summary": "A guide to essential cybersecurity tools."
+        },
+        {
+          "title": "What is Multi-Factor Authentication?",
+          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=MFA",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4",
+          "summary": "Learn about MFA and its importance in securing accounts."
+        },
+        {
+          "title": "Cybersecurity Trends in 2024",
+          "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Trends",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4",
+          "summary": "An analysis of the latest trends in cybersecurity."
+        },
+        {
+          "title": "Cybersecurity for Remote Workers",
+          "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Remote",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4",
+          "summary": "Best practices for maintaining security while working remotely."
+        },
+        {
+          "title": "Understanding Social Engineering",
+          "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Social",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4",
+          "summary": "A look at how social engineering attacks work."
+        },
+        {
+          "title": "Building a Cybersecurity Career",
+          "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Career",
+          "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4",
+          "summary": "Tips for starting a career in cybersecurity."
+        }
+      ]
+    },
+    {
+      "name": "Wallpapers",
+      "items": [
+        {
+          "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Wallpaper1",
+          "wallpaper_url": "https://picsum.photos/id/1011/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Wallpaper2",
+          "wallpaper_url": "https://picsum.photos/id/1012/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Wallpaper3",
+          "wallpaper_url": "https://picsum.photos/id/1013/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Wallpaper4",
+          "wallpaper_url": "https://picsum.photos/id/1014/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Wallpaper5",
+          "wallpaper_url": "https://picsum.photos/id/1015/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Wallpaper6",
+          "wallpaper_url": "https://picsum.photos/id/1016/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Wallpaper7",
+          "wallpaper_url": "https://picsum.photos/id/1017/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Wallpaper8",
+          "wallpaper_url": "https://picsum.photos/id/1018/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Wallpaper9",
+          "wallpaper_url": "https://picsum.photos/id/1019/800/600"
+        },
+        {
+          "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Wallpaper10",
+          "wallpaper_url": "https://picsum.photos/id/1020/800/600"
+        }
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "items": [
+        {
+          "title": "The Evolution of Cyber Security",
+          "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Evolution",
+          "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+        },
+        {
+          "title": "Future of Cyber Security",
+          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Future",
+          "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+        },
+        {
+          "title": "Understanding Ransomware",
+          "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Ransomware",
+          "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+        },
+        {
+          "title": "How to Avoid Phishing Scams",
+          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Phishing",
+          "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+        },
+        {
+          "title": "Cybersecurity for Small Businesses",
+          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Businesses",
+          "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+        },
+        {
+          "title": "The History of Cyber Attacks",
+          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=History",
+          "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+        },
+        {
+          "title": "Protecting Your Online Identity",
+          "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Identity",
+          "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+        }
+      ]
+    }
+  ]
+}
+
