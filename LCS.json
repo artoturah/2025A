@@ -5,53 +5,213 @@
       "items": [
         {
           "title": "Introduction to Cyber Security",
-          "thumb": "https://via.placeholder.com/150/0000FF/808080?text=Intro",
-          "html_url": "https://cybersecurityguide.org/resources/introduction-to-cybersecurity/"
+          "level": "Beginner",
+          "time": "2 hours",
+          "description": "Learn the basics of cyber security to protect your digital assets.",
+          "thumb": "https://via.placeholder.com/150/0000FF/808080?text=Intro+to+Cyber+Security",
+          "sections": [
+            {
+              "title": "Cyber Security Fundamentals",
+              "desc": "An overview of the essential concepts in cyber security.",
+              "time": "30 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/fundamentals"
+            },
+            {
+              "title": "Understanding Threats",
+              "desc": "Learn about common cyber threats and how to mitigate them.",
+              "time": "45 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/threats"
+            }
+          ]
         },
         {
-          "title": "Common Cyber Threats",
-          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Threats",
-          "html_url": "https://telegra.ph/Testing-12-24-76"
+          "title": "Advanced Cyber Defense",
+          "level": "Advanced",
+          "time": "3 hours",
+          "description": "Deep dive into advanced techniques for securing systems.",
+          "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Advanced+Cyber+Defense",
+          "sections": [
+            {
+              "title": "Network Security",
+              "desc": "Understand and implement robust network security measures.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/network-security"
+            },
+            {
+              "title": "Incident Response",
+              "desc": "Learn how to effectively respond to cyber incidents.",
+              "time": "1.5 hours",
+              "content_url": "https://cybersecurityguide.org/resources/incident-response"
+            }
+          ]
         },
         {
-          "title": "How Hackers Operate",
-          "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Hackers",
-          "html_url": "https://www.comparitech.com/blog/information-security/how-hackers-operate/"
+          "title": "Cloud Security Essentials",
+          "level": "Intermediate",
+          "time": "1.5 hours",
+          "description": "Learn how to secure cloud environments and data.",
+          "thumb": "https://via.placeholder.com/150/00FF00/808080?text=Cloud+Security",
+          "sections": [
+            {
+              "title": "Cloud Infrastructure Basics",
+              "desc": "Understanding the basics of cloud infrastructure.",
+              "time": "30 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/cloud-basics"
+            },
+            {
+              "title": "Data Protection in Cloud",
+              "desc": "Techniques for protecting data in the cloud.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/data-protection"
+            }
+          ]
         },
         {
-          "title": "Top 10 Cybersecurity Tips",
-          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Tips",
-          "html_url": "https://staysafeonline.org/stay-safe-online/securing-key-accounts-devices/"
+          "title": "Ethical Hacking Fundamentals",
+          "level": "Beginner",
+          "time": "3 hours",
+          "description": "Learn ethical hacking techniques to find and fix vulnerabilities.",
+          "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Ethical+Hacking",
+          "sections": [
+            {
+              "title": "Introduction to Ethical Hacking",
+              "desc": "Basics of ethical hacking and penetration testing.",
+              "time": "45 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/ethical-hacking"
+            },
+            {
+              "title": "Hands-On Hacking Techniques",
+              "desc": "Practical hacking techniques and tools.",
+              "time": "2 hours",
+              "content_url": "https://cybersecurityguide.org/resources/hacking-techniques"
+            }
+          ]
         },
         {
-          "title": "History of Cyber Attacks",
-          "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=History",
-          "html_url": "https://www.pandasecurity.com/en/mediacenter/security/history-of-cyberattacks/"
+          "title": "Secure Coding Practices",
+          "level": "Intermediate",
+          "time": "2.5 hours",
+          "description": "Learn how to write secure code to prevent vulnerabilities.",
+          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Secure+Coding",
+          "sections": [
+            {
+              "title": "Understanding Secure Coding",
+              "desc": "Introduction to secure coding principles.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/secure-coding"
+            },
+            {
+              "title": "Code Review Techniques",
+              "desc": "Learn techniques to review code for vulnerabilities.",
+              "time": "1.5 hours",
+              "content_url": "https://cybersecurityguide.org/resources/code-review"
+            }
+          ]
         },
         {
-          "title": "Protecting Your Online Identity",
-          "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Identity",
-          "html_url": "https://www.consumer.ftc.gov/topics/protecting-your-identity"
+          "title": "Introduction to Cryptography",
+          "level": "Beginner",
+          "time": "1 hour",
+          "description": "Understand the basics of cryptography and its applications.",
+          "thumb": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Cryptography",
+          "sections": [
+            {
+              "title": "Basics of Encryption",
+              "desc": "Learn how encryption secures information.",
+              "time": "30 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/encryption-basics"
+            },
+            {
+              "title": "Symmetric vs Asymmetric Cryptography",
+              "desc": "Understand different types of cryptographic techniques.",
+              "time": "30 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/crypto-types"
+            }
+          ]
         },
         {
-          "title": "Cybersecurity for Small Businesses",
-          "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Businesses",
-          "html_url": "https://www.fcc.gov/cybersecurity-small-business"
+          "title": "Malware Analysis Basics",
+          "level": "Intermediate",
+          "time": "2 hours",
+          "description": "Learn how to identify and analyze malicious software.",
+          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Malware+Analysis",
+          "sections": [
+            {
+              "title": "Understanding Malware",
+              "desc": "Learn what malware is and how it works.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/malware-basics"
+            },
+            {
+              "title": "Malware Analysis Techniques",
+              "desc": "Techniques to analyze and mitigate malware.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/malware-techniques"
+            }
+          ]
         },
         {
-          "title": "Understanding Ransomware",
-          "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Ransomware",
-          "html_url": "https://us-cert.cisa.gov/Ransomware"
+          "title": "Mobile App Security",
+          "level": "Advanced",
+          "time": "2.5 hours",
+          "description": "Ensure the security of mobile applications.",
+          "thumb": "https://via.placeholder.com/150/000080/FFFFFF?text=Mobile+Security",
+          "sections": [
+            {
+              "title": "Mobile Security Basics",
+              "desc": "Learn the fundamentals of securing mobile apps.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/mobile-basics"
+            },
+            {
+              "title": "App Vulnerability Testing",
+              "desc": "Techniques to test vulnerabilities in mobile apps.",
+              "time": "1.5 hours",
+              "content_url": "https://cybersecurityguide.org/resources/mobile-vulnerability"
+            }
+          ]
         },
         {
-          "title": "Phishing Scams and How to Avoid Them",
-          "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Phishing",
-          "html_url": "https://www.phishing.org/what-is-phishing"
+          "title": "Privacy and Data Protection",
+          "level": "Intermediate",
+          "time": "1.5 hours",
+          "description": "Learn how to protect privacy and secure sensitive data.",
+          "thumb": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Privacy+Protection",
+          "sections": [
+            {
+              "title": "Introduction to Privacy Laws",
+              "desc": "Understand the basics of privacy laws and regulations.",
+              "time": "45 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/privacy-laws"
+            },
+            {
+              "title": "Securing Sensitive Data",
+              "desc": "Best practices to secure sensitive data.",
+              "time": "45 minutes",
+              "content_url": "https://cybersecurityguide.org/resources/data-security"
+            }
+          ]
         },
         {
-          "title": "The Future of Cybersecurity",
-          "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Future",
-          "html_url": "https://www.cybersecurity-insiders.com/future-of-cybersecurity/"
+          "title": "Security in IoT",
+          "level": "Advanced",
+          "time": "3 hours",
+          "description": "Explore security challenges and solutions in IoT environments.",
+          "thumb": "https://via.placeholder.com/150/FF4500/FFFFFF?text=IoT+Security",
+          "sections": [
+            {
+              "title": "IoT Threat Landscape",
+              "desc": "Overview of threats specific to IoT devices.",
+              "time": "1 hour",
+              "content_url": "https://cybersecurityguide.org/resources/iot-threats"
+            },
+            {
+              "title": "IoT Security Solutions",
+              "desc": "Techniques to secure IoT systems.",
+              "time": "2 hours",
+              "content_url": "https://cybersecurityguide.org/resources/iot-solutions"
+            }
+          ]
         }
       ]
     },
