@@ -1,282 +1,423 @@
 {
-	"menu": [{
-			"name": "Learning",
-			"items": [{
-					"title": "Network Security Basics",
-					"level": "Beginner",
-					"time": "3 hours",
-					"description": "This course introduces you to the foundational concepts of network security, essential for protecting systems and data from unauthorized access and attacks. You'll explore the core principles of network security, such as the importance of encryption, firewalls, and intrusion detection systems. You'll also learn how different network protocols (e.g., TCP/IP, HTTP, DNS) function and how vulnerabilities in these protocols can be exploited by cyber attackers. Topics covered include types of network attacks (such as man-in-the-middle, denial of service, and spoofing), common security measures like Virtual Private Networks (VPNs), and the significance of strong password policies. By the end of this session, you'll have a solid understanding of how to identify potential threats and safeguard a network against malicious activity.",
-					"thumb": "https://example.com/network-security-basics.jpg",
-					"sections": [{
-							"title": "Understanding Networks and Protocols",
-							"desc": "Explanation of how networks function and the role of protocols in data communication.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
-						},
-						{
-							"title": "Common Network Vulnerabilities",
-							"desc": "Review of common network weaknesses that are frequently targeted by attacks.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/network-vulnerabilities"
-						},
-						{
-							"title": "How Cyber Attacks Target Networks",
-							"desc": "Case studies of cyberattacks on networks and their impacts.",
-							"time": "50 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/network-attacks"
-						},
-						{
-							"title": "Protecting Networks: Firewalls and Intrusion Detection",
-							"desc": "The role of firewalls and intrusion detection systems in securing networks.",
-							"time": "60 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/firewalls-and-ids"
-						}
-					]
-				},
-				{
-					"title": "Website Security Basics",
-					"level": "Intermediate",
-					"time": "2.5 hours",
-					"description": "Exploring how websites work, common threats to websites, and theoretical guidelines for securing them.",
-					"thumb": "https://example.com/website-security-basics.jpg",
-					"sections": [{
-							"title": "How Websites Work: A Theoretical Overview",
-							"desc": "Introduction to how websites function and their basic structure.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/web-basics"
-						},
-						{
-							"title": "Common Website Vulnerabilities (e.g., SQL Injection, XSS)",
-							"desc": "Explanation of common vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS).",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/web-vulnerabilities"
-						},
-						{
-							"title": "Steps to Secure a Website: Theoretical Guidelines",
-							"desc": "Guidelines on steps to secure a website theoretically.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/secure-websites"
-						},
-						{
-							"title": "The Role of Ethical Hackers in Website Security",
-							"desc": "How ethical hackers help secure websites.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/ethical-hackers-in-web-security"
-						}
-					]
-				},
-				{
-					"title": "Social Engineering and Human Vulnerabilities",
-					"level": "Intermediate",
-					"time": "2 hours",
-					"description": "Unveiling manipulation-based threats that exploit human weaknesses.",
-					"thumb": "https://example.com/social-engineering.jpg",
-					"sections": [{
-							"title": "Understanding Social Engineering Attacks",
-							"desc": "Exploring how social engineering attacks work.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/social-engineering"
-						},
-						{
-							"title": "Psychological Tactics Used by Hackers",
-							"desc": "Psychological techniques attackers use to manipulate victims.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/psychology-of-attacks"
-						},
-						{
-							"title": "Case Studies of Famous Social Engineering Attacks",
-							"desc": "Case studies of well-known attacks such as phishing and baiting.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/social-engineering-cases"
-						},
-						{
-							"title": "How to Prevent Social Engineering Attacks",
-							"desc": "Strategies to protect individuals and organizations from social engineering attacks.",
-							"time": "30 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/prevent-social-engineering"
-						}
-					]
-				},
-				{
-					"title": "Emerging Trends in Cybersecurity",
-					"level": "Advanced",
-					"time": "3 hours",
-					"description": "Discussing the latest trends in cybersecurity, including the role of AI, IoT challenges, and the future of ethical hacking.",
-					"thumb": "https://example.com/emerging-trends.jpg",
-					"sections": [{
-							"title": "The Role of AI and Machine Learning in Hacking and Defense",
-							"desc": "How AI and machine learning are used in cyberattacks and defense.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/ai-in-cybersecurity"
-						},
-						{
-							"title": "Cybersecurity Challenges in IoT (Internet of Things)",
-							"desc": "Challenges faced in securing IoT devices.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/iot-security"
-						},
-						{
-							"title": "The Future of Ethical Hacking: Opportunities and Challenges",
-							"desc": "The future of ethical hacking and the opportunities this field presents.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/future-of-ethical-hacking"
-						},
-						{
-							"title": "Careers in Cybersecurity and Ethical Hacking",
-							"desc": "Explore the growing career opportunities in cybersecurity and ethical hacking, and how you can build a successful career in this dynamic and ever-evolving field.",
-							"time": "40 minutes",
-							"content_url": "https://cybersecurityguide.org/resources/future-of-ethical-hacking"
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Videos",
-			"items": [{
-					"title": "Cyber Security Basics",
-					"thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Basics",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-					"summary": "A beginner-friendly video covering the basics of cyber security."
-				},
-				{
-					"title": "Protecting Your Digital Identity",
-					"thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Identity",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
-					"summary": "Learn how to safeguard your online identity."
-				},
-				{
-					"title": "How to Spot a Phishing Email",
-					"thumb": "https://via.placeholder.com/150/00FF00/000000?text=Phishing",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4",
-					"summary": "Tips and tricks for identifying phishing emails."
-				},
-				{
-					"title": "The Rise of Ransomware",
-					"thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4",
-					"summary": "An overview of ransomware and its impact on businesses."
-				},
-				{
-					"title": "Top Cybersecurity Tools",
-					"thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Tools",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
-					"summary": "A guide to essential cybersecurity tools."
-				},
-				{
-					"title": "What is Multi-Factor Authentication?",
-					"thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=MFA",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4",
-					"summary": "Learn about MFA and its importance in securing accounts."
-				},
-				{
-					"title": "Cybersecurity Trends in 2024",
-					"thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Trends",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4",
-					"summary": "An analysis of the latest trends in cybersecurity."
-				},
-				{
-					"title": "Cybersecurity for Remote Workers",
-					"thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Remote",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4",
-					"summary": "Best practices for maintaining security while working remotely."
-				},
-				{
-					"title": "Understanding Social Engineering",
-					"thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Social",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4",
-					"summary": "A look at how social engineering attacks work."
-				},
-				{
-					"title": "Building a Cybersecurity Career",
-					"thumb": "https://via.placeholder.com/150/FFA500/000000?text=Career",
-					"video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4",
-					"summary": "Tips for starting a career in cybersecurity."
-				}
-			]
-		},
-		{
-			"name": "Wallpapers",
-			"items": [{
-					"thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Wallpaper1",
-					"wallpaper_url": "https://picsum.photos/id/1011/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Wallpaper2",
-					"wallpaper_url": "https://picsum.photos/id/1012/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/00FF00/000000?text=Wallpaper3",
-					"wallpaper_url": "https://fastly.picsum.photos/id/1013/800/600.jpg?hmac=6uthT6mzpSDVhbpCb7CwzvNUutJyWBzFCymF5okbzmo"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Wallpaper4",
-					"wallpaper_url": "https://picsum.photos/id/1014/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Wallpaper5",
-					"wallpaper_url": "https://picsum.photos/id/1015/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Wallpaper6",
-					"wallpaper_url": "https://picsum.photos/id/1016/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Wallpaper7",
-					"wallpaper_url": "https://picsum.photos/id/1017/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Wallpaper8",
-					"wallpaper_url": "https://picsum.photos/id/1018/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Wallpaper9",
-					"wallpaper_url": "https://picsum.photos/id/1019/800/600"
-				},
-				{
-					"thumb": "https://via.placeholder.com/150/FFA500/000000?text=Wallpaper10",
-					"wallpaper_url": "https://picsum.photos/id/1020/800/600"
-				}
-			]
-		},
-		{
-			"name": "Podcasts",
-			"items": [{
-					"title": "The Evolution of Cyber Security",
-					"thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Evolution",
-					"url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
-				},
-				{
-					"title": "Future of Cyber Security",
-					"thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Future",
-					"url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
-				},
-				{
-					"title": "Understanding Ransomware",
-					"thumb": "https://via.placeholder.com/150/00FF00/000000?text=Ransomware",
-					"url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
-				},
-				{
-					"title": "How to Avoid Phishing Scams",
-					"thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Phishing",
-					"url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
-				},
-				{
-					"title": "Cybersecurity for Small Businesses",
-					"thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Businesses",
-					"url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
-				},
-				{
-					"title": "The History of Cyber Attacks",
-					"thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=History",
-					"url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
-				},
-				{
-					"title": "Protecting Your Online Identity",
-					"thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Identity",
-					"url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
-				}
-			]
-		}
-	]
+    "menu": [
+      {
+        "name": "Learning",
+        "items": [
+          {
+            "title": "Introduction",
+            "level": "Beginner",
+            "time": "2 hours",
+            "description": "This introductory module provides a comprehensive overview of ethical hacking and cybersecurity fundamentals. Students will learn the basic concepts of hacking, understand the importance of ethical practices in cybersecurity, and gain insights into the role of ethical hackers in today's digital landscape. The module covers essential terminology, the evolution of hacking, and the critical distinction between ethical and malicious hacking.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Course Introduction & Overview",
+                "desc": "Overview of the course structure, learning objectives, and what to expect from the ethical hacking program",
+                "time": "30 minutes",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "What is Hacking and Why Do We Learn It?",
+                "desc": "Understanding the concept of hacking, its history, and the importance of learning ethical hacking in today's digital world",
+                "time": "30 minutes",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Types of Hackers",
+                "desc": "Exploring different categories of hackers: white hat, black hat, grey hat, and their roles in cybersecurity",
+                "time": "30 minutes",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "The Importance of Ethical Hacking",
+                "desc": "Understanding why ethical hacking is crucial for organizations and how it helps improve security",
+                "time": "30 minutes",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Foundations of Ethical Hacking",
+            "level": "Beginner",
+            "time": "4 hours",
+            "description": "This module builds the foundational knowledge necessary for ethical hacking. Students will explore core cybersecurity concepts, common vulnerabilities, and the fundamental principles of information security. The module emphasizes understanding security threats, basic networking concepts, and the methodology used by ethical hackers to identify and address security issues.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Understanding Cybersecurity Fundamentals",
+                "desc": "Learn basic cybersecurity concepts, terminology, and the CIA triad (Confidentiality, Integrity, Availability)",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Vulnerabilities, Threats, and Exploits",
+                "desc": "Explore common security vulnerabilities, types of threats, and how exploits are used in cyber attacks",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Ethics and Legal Aspects of Hacking",
+                "desc": "Understanding legal frameworks, ethical guidelines, and responsibilities of ethical hackers",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "The Hacker's Mindset, Thinking Like an Attacker",
+                "desc": "Developing the analytical and strategic thinking required for identifying security weaknesses",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Tools and Environments",
+            "level": "Beginner",
+            "time": "6 hours",
+            "description": "This comprehensive module introduces students to the essential tools and environments used in ethical hacking. Students will learn about Kali Linux, the industry-standard penetration testing platform, various security tools, and how to set up safe testing environments. The module includes hands-on practice with common security tools and teaches best practices for using these tools responsibly.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Introduction to Hacking Tools",
+                "desc": "Overview of common tools used in ethical hacking and their specific purposes",
+                "time": "1.5 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Overview of Kali Linux and Kali Nethunter",
+                "desc": "Introduction to Kali Linux distribution and mobile penetration testing with Kali Nethunter",
+                "time": "1.5 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Role of Virtual Machines in Ethical Hacking",
+                "desc": "Setting up and using virtual machines for safe testing environments",
+                "time": "1.5 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Common Tools Used by Ethical Hackers",
+                "desc": "Hands-on practice with essential security tools including Nmap, Wireshark, and Metasploit",
+                "time": "1.5 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Network Security Basics",
+            "level": "Intermediate",
+            "time": "5 hours",
+            "description": "This module delves into the fundamentals of network security, covering essential networking concepts, common vulnerabilities, and attack methodologies. Students will learn about different types of networks, protocols, and how they can be exploited. The module includes practical exercises in network scanning, vulnerability assessment, and understanding network-based attacks.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Understanding Networks and Protocols",
+                "desc": "Deep dive into network architectures, protocols, and how they function",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Common Network Vulnerabilities",
+                "desc": "Identifying and understanding various network vulnerabilities and weak points",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "How Cyber Attacks Target Networks",
+                "desc": "Understanding different types of network-based attacks and their mechanisms",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Network Security Tools and Techniques",
+                "desc": "Practical application of tools and methods for securing networks",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Website Security Basics",
+            "level": "Intermediate",
+            "time": "5 hours",
+            "description": "This module focuses on web application security, covering common web vulnerabilities, attack vectors, and security best practices. Students will learn about various web security issues including SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF). The module includes practical exercises in identifying and exploiting web vulnerabilities, as well as implementing proper security measures.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "How Websites Work",
+                "desc": "Understanding web architecture, HTTP/HTTPS protocols, and client-server communication",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Common Website Vulnerabilities",
+                "desc": "Exploring OWASP Top 10 and other common web application security risks",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Steps to Secure a Website",
+                "desc": "Implementation of security measures and best practices for web applications",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "The Role of Ethical Hackers in Website Security",
+                "desc": "How ethical hackers help identify and fix web application vulnerabilities",
+                "time": "1.25 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Social Engineering and Human Vulnerabilities",
+            "level": "Intermediate",
+            "time": "4 hours",
+            "description": "This module explores the human aspect of cybersecurity, focusing on social engineering techniques and psychological manipulation used in cyber attacks. Students will learn about various social engineering methods, real-world case studies, and how to protect against these types of attacks. The module emphasizes the importance of human awareness in cybersecurity and provides practical strategies for preventing social engineering attacks.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Understanding Social Engineering Attacks",
+                "desc": "Introduction to social engineering concepts and common attack techniques",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Psychological Tactics Used by Hackers",
+                "desc": "Exploring the psychology behind social engineering and manipulation techniques",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Case Studies of Famous Social Engineering Attacks",
+                "desc": "Analysis of real-world social engineering incidents and their impact",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "How to Prevent Social Engineering Attacks",
+                "desc": "Strategies and best practices for protecting against social engineering",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Ethical Hacking in Practice",
+            "level": "Advanced",
+            "time": "8 hours",
+            "description": "This advanced module puts theoretical knowledge into practice through hands-on exercises and real-world scenarios. Students will learn the complete ethical hacking methodology, from initial reconnaissance to final reporting. The module covers penetration testing procedures, documentation requirements, and best practices for conducting security assessments. Students will gain practical experience in identifying vulnerabilities, executing controlled exploits, and providing professional security recommendations.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "Steps in an Ethical Hacking Process",
+                "desc": "Detailed walkthrough of the ethical hacking methodology and phases",
+                "time": "2 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Understanding Penetration Testing",
+                "desc": "Comprehensive guide to conducting professional penetration tests",
+                "time": "2 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Importance of Reporting and Documentation",
+                "desc": "Learning how to document findings and create professional security reports",
+                "time": "2 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "How Ethical Hacking Helps Organizations",
+                "desc": "Understanding the business value of ethical hacking and security assessments",
+                "time": "2 hours",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          },
+          {
+            "title": "Emerging Trends in Cybersecurity",
+            "level": "Intermediate",
+            "time": "4 hours",
+            "description": "This forward-looking module explores current and emerging trends in cybersecurity and ethical hacking. Students will learn about cutting-edge technologies, evolving threat landscapes, and future career opportunities in cybersecurity. The module covers the impact of artificial intelligence, IoT security challenges, and the changing nature of cyber threats, preparing students for the future of cybersecurity.",
+            "thumb": "https://example.com/network-security-basics.jpg",
+            "sections": [
+              {
+                "title": "The Role of AI and Machine Learning in Hacking and Defense",
+                "desc": "Understanding how AI and ML are transforming both cyber attacks and defense",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Cybersecurity Challenges in IoT (Internet of Things)",
+                "desc": "Exploring security implications and challenges in the growing IoT landscape",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "The Future of Ethical Hacking",
+                "desc": "Examining upcoming trends and evolution in ethical hacking practices",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              },
+              {
+                "title": "Careers in Cybersecurity and Ethical Hacking",
+                "desc": "Overview of career paths, certifications, and opportunities in cybersecurity",
+                "time": "1 hour",
+                "content_url": "https://cybersecurityguide.org/resources/networks-and-protocols"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Videos",
+        "items": [
+          {
+            "title": "Cyber Security Basics",
+            "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Basics",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "summary": "A beginner-friendly video covering the basics of cyber security."
+          },
+          {
+            "title": "Protecting Your Digital Identity",
+            "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Identity",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
+            "summary": "Learn how to safeguard your online identity."
+          },
+          {
+            "title": "How to Spot a Phishing Email",
+            "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Phishing",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4",
+            "summary": "Tips and tricks for identifying phishing emails."
+          },
+          {
+            "title": "The Rise of Ransomware",
+            "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4",
+            "summary": "An overview of ransomware and its impact on businesses."
+          },
+          {
+            "title": "Top Cybersecurity Tools",
+            "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Tools",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
+            "summary": "A guide to essential cybersecurity tools."
+          },
+          {
+            "title": "What is Multi-Factor Authentication?",
+            "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=MFA",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4",
+            "summary": "Learn about MFA and its importance in securing accounts."
+          },
+          {
+            "title": "Cybersecurity Trends in 2024",
+            "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Trends",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4",
+            "summary": "An analysis of the latest trends in cybersecurity."
+          },
+          {
+            "title": "Cybersecurity for Remote Workers",
+            "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Remote",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4",
+            "summary": "Best practices for maintaining security while working remotely."
+          },
+          {
+            "title": "Understanding Social Engineering",
+            "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Social",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4",
+            "summary": "A look at how social engineering attacks work."
+          },
+          {
+            "title": "Building a Cybersecurity Career",
+            "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Career",
+            "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4",
+            "summary": "Tips for starting a career in cybersecurity."
+          }
+        ]
+      },
+      {
+        "name": "Wallpapers",
+        "items": [
+          {
+            "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Wallpaper1",
+            "wallpaper_url": "https://picsum.photos/id/1011/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Wallpaper2",
+            "wallpaper_url": "https://picsum.photos/id/1012/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Wallpaper3",
+            "wallpaper_url": "https://fastly.picsum.photos/id/1013/800/600.jpg?hmac=6uthT6mzpSDVhbpCb7CwzvNUutJyWBzFCymF5okbzmo"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Wallpaper4",
+            "wallpaper_url": "https://picsum.photos/id/1014/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Wallpaper5",
+            "wallpaper_url": "https://picsum.photos/id/1015/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=Wallpaper6",
+            "wallpaper_url": "https://picsum.photos/id/1016/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Wallpaper7",
+            "wallpaper_url": "https://picsum.photos/id/1017/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/800000/FFFFFF?text=Wallpaper8",
+            "wallpaper_url": "https://picsum.photos/id/1018/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/000000/FFFFFF?text=Wallpaper9",
+            "wallpaper_url": "https://picsum.photos/id/1019/800/600"
+          },
+          {
+            "thumb": "https://via.placeholder.com/150/FFA500/000000?text=Wallpaper10",
+            "wallpaper_url": "https://picsum.photos/id/1020/800/600"
+          }
+        ]
+      },
+      {
+        "name": "Podcasts",
+        "items": [
+          {
+            "title": "The Evolution of Cyber Security",
+            "thumb": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Evolution",
+            "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+          },
+          {
+            "title": "Future of Cyber Security",
+            "thumb": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Future",
+            "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+          },
+          {
+            "title": "Understanding Ransomware",
+            "thumb": "https://via.placeholder.com/150/00FF00/000000?text=Ransomware",
+            "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+          },
+          {
+            "title": "How to Avoid Phishing Scams",
+            "thumb": "https://via.placeholder.com/150/FFFF00/000000?text=Phishing",
+            "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+          },
+          {
+            "title": "Cybersecurity for Small Businesses",
+            "thumb": "https://via.placeholder.com/150/800080/FFFFFF?text=Businesses",
+            "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+          },
+          {
+            "title": "The History of Cyber Attacks",
+            "thumb": "https://via.placeholder.com/150/008080/FFFFFF?text=History",
+            "url_podcast": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3"
+          },
+          {
+            "title": "Protecting Your Online Identity",
+            "thumb": "https://via.placeholder.com/150/FFC0CB/000000?text=Identity",
+            "url_podcast": "https://sample-videos.com/audio/mp3/wave.mp3"
+          }
+        ]
+      }
+    ]
 }
