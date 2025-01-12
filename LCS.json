@@ -273,64 +273,46 @@
       "name" : "Videos",
       "items" : [
         {
-          "title" : "Cyber Security Basics",
+          "title" : "How to Start Learn Cyber Security",
           "thumb" : "https://via.placeholder.com/150/0000FF/FFFFFF?text=Basics",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-          "summary" : "A beginner-friendly video covering the basics of cyber security."
+          "video_url" : "https://www.youtube.com/watch?v=b12JrM-6DBY&pp=ygUUY3liZXIgc2VjdXJpdHkgYmFzaWM%3D",
+          "summary" : "The video provides a comprehensive guide for individuals looking to start a career in cybersecurity in 2024. It recommends beginning with the Google Cybersecurity Professional Certificate, an affordable and flexible program consisting of 8 courses that cover the basics of cybersecurity without requiring prior experience. The next step is to obtain the CompTIA Security+ certification, which is widely recognized and essential for entry-level positions in the field. The video also emphasizes the importance of understanding networking concepts through the CompTIA Network+ certification. To gain knowledge in cloud computing, it suggests pursuing an entry-level cloud certification such as AWS Cloud Practitioner or Microsoft AZ-900. The content creator stresses the significance of developing personal projects and building a portfolio to showcase skills to potential employers. For those looking to specialize, advanced certifications like Security Blue Team Level 1 for SOC analysts or PJPT by TCM Security for penetration testing are recommended. Throughout the video, the importance of continuous learning and skill development is emphasized, even after securing an entry-level position. The creator advises focusing on practical skills rather than just accumulating certifications and encourages viewers to follow cybersecurity content creators on social media for additional insights and information. Overall, the video provides a structured approach to building a strong foundation in cybersecurity, combining theoretical knowledge with practical skills to launch a successful career in this rapidly growing industry."
         },
         {
-          "title" : "Protecting Your Digital Identity",
+          "title" : "Basic Skill for Cybersecurity",
           "thumb" : "https://via.placeholder.com/150/FF0000/FFFFFF?text=Identity",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4",
-          "summary" : "Learn how to safeguard your online identity."
+          "video_url" : "https://www.youtube.com/watch?v=aRbKFCY4tjE&pp=ygUUY3liZXIgc2VjdXJpdHkgYmFzaWM%3D",
+          "summary" : "The video presents essential cybersecurity skills that everyone should possess in today's digital landscape. It begins by discussing the importance of identifying Indicators of Compromise (IOCs), which are signs of potential security breaches. The presenter then emphasizes the value of investigation skills, demonstrating how to use browser developer tools and online services like Scam Advisor to assess website trustworthiness. Malware analysis is introduced as a crucial skill, with the video showcasing tools like Hybrid Analysis, VirusTotal, and PE Studio for examining suspicious files. Forensics is highlighted as another vital skill, with the presenter recommending Microsoft's Sysinternals Suite, particularly Process Explorer and TCP View, for in-depth system analysis. Throughout the video, the importance of familiarizing oneself with normal system processes is stressed, enabling users to spot anomalies more easily. The presenter concludes by promoting Malwarebytes as a comprehensive antivirus solution, noting its improved user interface and real-time protection capabilities. Overall, the video emphasizes that developing these basic cybersecurity skills can significantly enhance an individual's ability to protect themselves from various online threats and scams."
         },
         {
-          "title" : "How to Spot a Phishing Email",
+          "title" : "Cybersecurity is Hard?",
           "thumb" : "https://via.placeholder.com/150/00FF00/000000?text=Phishing",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4",
-          "summary" : "Tips and tricks for identifying phishing emails."
+          "video_url" : "https://www.youtube.com/watch?v=MuSIys2AOzw&pp=ygUUY3liZXIgc2VjdXJpdHkgYmFzaWM%3D",
+          "summary" : "The video discusses the challenges and requirements for succeeding in cybersecurity in 2024. It emphasizes that cybersecurity is not beginner-friendly, requiring a broad understanding of computer systems, security architecture, and various technologies. The presenter, a security operations analyst, highlights three key traits for success: a strong drive to learn, technical understanding, and the ability to \"grind\" or work hard consistently. The video suggests that many start in IT help desk roles to build foundational knowledge before transitioning to cybersecurity. It also notes that entry-level positions often involve working as a security analyst in a blue team, defending against threats. The emergence of AI is mentioned as a factor making cybersecurity more challenging. To prepare for a career in cybersecurity, the video recommends studying courses like CompTIA A+, Security+, and Network+, learning basic Python and SQL, practicing with tools like Splunk, and building a home lab to gain hands-on experience. The presenter stresses the importance of self-initiative in learning and staying updated with the latest technologies and threats in the field."
         },
         {
-          "title" : "The Rise of Ransomware",
+          "title" : "Should We use Kali Linux?",
           "thumb" : "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4",
-          "summary" : "An overview of ransomware and its impact on businesses."
+          "video_url" : "https://www.youtube.com/watch?v=HD2PfG105dI&pp=ygUid2h5IGthbGkgbGludXggaXMgdXNlZCBmb3IgaGFja2luZw%3D%3D",
+          "summary" : "The video explores why hackers prefer Kali Linux over other operating systems. Kali Linux, a Debian-based distribution designed for security professionals, is popular among hackers for several reasons. Firstly, it comes pre-installed with over 600 tools for various security tasks, including network scanning, vulnerability assessment, and password cracking. Secondly, it's free and open-source, allowing users to customize and modify it according to their needs. Thirdly, Kali Linux prioritizes privacy and anonymity, offering features like live system functionality and built-in Tor support. The system also boasts comprehensive documentation and community support, making it easier for users to learn and troubleshoot. Additionally, Kali Linux is portable and versatile, running on various devices and platforms. However, the video also highlights some disadvantages, such as its steep learning curve for beginners, potential to attract unwanted attention from authorities, and the ethical and legal issues that may arise from its misuse. The presenter concludes by emphasizing the importance of using Kali Linux responsibly and ethically in the context of cybersecurity and penetration testing."
         },
         {
-          "title" : "Top Cybersecurity Tools",
-          "thumb" : "https://via.placeholder.com/150/800080/FFFFFF?text=Tools",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4",
-          "summary" : "A guide to essential cybersecurity tools."
+          "title" : "Easy to Learn Kali in 5 Minutes",
+          "thumb" : "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
+          "video_url" : "https://www.youtube.com/watch?v=oFJsZOFnADc&pp=ygUid2h5IGthbGkgbGludXggaXMgdXNlZCBmb3IgaGFja2luZw%3D%3D",
+          "summary" : "The video provides an overview of Kali Linux, a popular operating system for hackers and security experts. Kali Linux stands out due to its pre-installed suite of over 600 tools designed for various hacking tasks, including information gathering, vulnerability scanning, wireless hacking, web hacking, password cracking, and exploitation. The presenter recommends using Kali Linux in a virtual machine for beginners, highlighting benefits such as safe practice without legal risks, protection from malware, and flexibility in experimentation. The video guides viewers through the process of setting up Kali Linux using VirtualBox, a free virtualization software. It emphasizes the importance of changing the default password and updating the system regularly. The presenter then demonstrates a practical example of using Kali Linux tools to hack a hypothetical website, outlining steps such as information gathering, vulnerability analysis, exploitation, forensic analysis, and report generation. Various tools like nmap, nikto, sqlmap, metasploit-framework, and autopsy are mentioned for different stages of the hacking process. The video concludes by stressing that this overview is just the beginning, encouraging viewers to explore further resources for in-depth understanding of each tool in Kali Linux."
         },
         {
-          "title" : "What is Multi-Factor Authentication?",
-          "thumb" : "https://via.placeholder.com/150/008080/FFFFFF?text=MFA",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4",
-          "summary" : "Learn about MFA and its importance in securing accounts."
+          "title" : "Mastering Social Engineering in 13 Minutes",
+          "thumb" : "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
+          "video_url" : "https://www.youtube.com/watch?v=UqhO1A4O6Ok&pp=ygUWc29jaWFsIGVuZ2luZWVyaW5nIG5vdw%3D%3D",
+          "summary" : "The video titled \"Master Social Engineering in Just 13 Minutes Without Getting Caught\" is hosted on the Hacker Joe YouTube channel. The channel's focus is on providing information and skills related to hacking, with the host, Joe, aiming to share \"the best and most amazing things about hacking.\" While the specific content of the 13-minute video on social engineering is not detailed in the available information, the title suggests it offers a quick guide to mastering social engineering techniques without detection. Social engineering is a method used in cybersecurity and hacking that relies on human interaction and psychological manipulation to gain access to information or systems. The video likely covers various aspects of this practice, potentially including common techniques, psychological principles, and ways to avoid detection. However, it's important to note that the ethical implications of such techniques are not addressed in the provided information. "
         },
         {
-          "title" : "Cybersecurity Trends in 2024",
-          "thumb" : "https://via.placeholder.com/150/FFC0CB/000000?text=Trends",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4",
-          "summary" : "An analysis of the latest trends in cybersecurity."
-        },
-        {
-          "title" : "Cybersecurity for Remote Workers",
-          "thumb" : "https://via.placeholder.com/150/800000/FFFFFF?text=Remote",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4",
-          "summary" : "Best practices for maintaining security while working remotely."
-        },
-        {
-          "title" : "Understanding Social Engineering",
-          "thumb" : "https://via.placeholder.com/150/000000/FFFFFF?text=Social",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4",
-          "summary" : "A look at how social engineering attacks work."
-        },
-        {
-          "title" : "Building a Cybersecurity Career",
-          "thumb" : "https://via.placeholder.com/150/FFA500/000000?text=Career",
-          "video_url" : "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4",
-          "summary" : "Tips for starting a career in cybersecurity."
+          "title" : "The Art of Human Hacking",
+          "thumb" : "https://via.placeholder.com/150/FFFF00/000000?text=Ransomware",
+          "video_url" : "https://www.youtube.com/watch?v=uIeUOXzFK_s&pp=ygUac29jaWFsIGVuZ2luZWVyaW5nIHdpdGggYWk%3D",
+          "summary" : "The video discusses social engineering based on Christopher Hadnagy's book \"Social Engineering: The Art of Human Hacking,\" revealing that the most dangerous cyber threats come not from technical hacking but from manipulating human trust and connection. Hadnagy, a penetration testing expert, demonstrates how social engineers use various techniques to exploit human vulnerabilities, including pretexting (building believable stories based on personal information), elicitation (extracting critical information without targets realizing it), and understanding micro-expressions (reading facial expressions to analyze emotions). Social engineers extensively use social media to gather information about their targets, from daily routines to social connections, which they use to craft effective attacks. The video also covers Neurolinguistic Programming (NLP), a mind manipulation technique using specific words and voice tones, as well as physical security vulnerabilities like easily guessable passwords and lockpicking. Social engineers are described as part detective and part actor, who study their targets' behaviors and patterns to gain their trust before launching their attacks. They can manipulate everything from casual forum discussions to corporate security systems by exploiting human psychology rather than technical vulnerabilities. The key message emphasizes that the best defense against social engineering is understanding these manipulation techniques and maintaining awareness that anyone can be a target, as the human mind is inherently hackable, and traditional security measures like firewalls and antivirus software are insufficient when the attacker is invited in through trust and manipulation."
         }
       ]
     },
